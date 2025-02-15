@@ -164,12 +164,14 @@ The graphic interface is rendered using the **U8g2** library over hardware SPI:
 Spectrum-Analyzer/
 ├── README.md                                    # Comprehensive project documentation
 ├── Block Diagram/
+│   ├── block_diagram.png                        # System block diagram
 │   └── Block diagram.pdf                        # System block diagram schematic
 ├── Code Files/
 │   └── fft_interrup_2k_algo_03.2_10K/
 │       └── fft_interrup_2k_algo_03.2_10K.ino    # Arduino sketch source code
 ├── Report/
-│   └── Spectrum_analyser (2).pdf                # Full project report document
+│   ├── Spectrum_analyser (3).pdf                # Latest project report document
+│   └── Spectrum_analyser (2).pdf                # Project report document
 └── Report Source File/
     └── Spectrum_analyser/
         ├── main.tex                             # LaTeX report source
@@ -198,10 +200,9 @@ Spectrum-Analyzer/
 
 ---
 
-## Authors
+## Author
 
-* **Ansh Gupta**
-* **Shubham Kumar**
+* **Shubham**
 
 **Centre for Electronic Design and Technology (CEDT)**  
 **Netaji Subhas University of Technology (NSUT), New Delhi**  
